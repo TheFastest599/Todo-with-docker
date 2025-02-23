@@ -4,7 +4,7 @@
 This project is a **Full-Stack ToDo Application** built with:
 - **Backend**: Flask (Python)
 - **Frontend**: Vite + React (JavaScript)
-- **Database**: (If any, mention here)
+- **Database**: PostgreSQL
 - **Docker** for containerization
 
 Both the frontend and backend are containerized using **Docker**, making it easy to deploy and run.
