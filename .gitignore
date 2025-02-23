@@ -1,0 +1,32 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+env/
+venv/
+.venv/
+instance/
+.pytest_cache/
+.coverage
+.cache
+*.log
+
+# Flask
+*.sqlite3
+*.db
+*.sqlite
+*.pdb
+*.pyo
+*.pyd
+*.pyc
+instance/
+.env
+
+# React
+node_modules/
+build/
+npm-debug.log
+yarn-error.log
+.DS_Store
+.env
